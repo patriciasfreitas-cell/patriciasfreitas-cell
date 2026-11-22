@@ -17,7 +17,11 @@ Hoje eu estudo e pratico **automação de processos e IA**, criando fluxos que r
 - 🌎 Estudando **inglês** para fluência
 
 ## 📂 Projetos
-Meus projetos de automação estão nos repositórios abaixo. Novos fluxos chegando em breve!
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| [🤖 Telegram AI Bot com Ollama](https://github.com/patriciasfreitas-cell/n8n-workflows) | Chatbot no Telegram que responde com IA usando um modelo rodando no meu próprio servidor (Llama 3.2 3B) | n8n, Telegram, Ollama, Docker, Oracle Cloud |
+
+Novos fluxos chegando em breve!
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Patrícia_Freitas-0A66C2?logo=linkedin)](https://www.linkedin.com/in/patricia-freitas1/)
