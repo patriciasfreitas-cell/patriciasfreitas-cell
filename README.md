@@ -1,6 +1,6 @@
 # Olá, eu sou a Patrícia Freitas 👋
 
-Profissional em **transição de carreira para tecnologia**, depois de 29 anos na indústria farmacêutica.
+Profissional em **Ingresso na carreira de tecnologia**, com de 29 anos na indústria farmacêutica.
 
 ## 💼 De onde eu venho
 - 29 anos como representante propagandista em empresas como **GSK, Pfizer, Mantecorp e AstraZeneca**
